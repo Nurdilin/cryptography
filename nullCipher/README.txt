@@ -1,0 +1,1 @@
+nulCipher_decode.tzt decrypts the ciphertext with the assumption that we have to take the second letter of the words in order to break the null cipher. It can be modified to take other character positions as well
